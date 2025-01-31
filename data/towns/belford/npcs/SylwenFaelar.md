@@ -10,6 +10,14 @@ Sylwen carries herself with an ethereal grace, exuding an aura of quiet omniscie
 Sylwen, known by many names, is elusive and cryptic. She abandoned the Voss family name long ago, embracing her identity as a dreamwalker and oracle of Sehanine. 
 She is secretly **The Countess**, believing herself to be Sehanine’s Chosen Message Bearer, entrusted with guiding the world through its coming trials., the hidden force working against Vecna’s corruption. 
 
+### **Stats:**  
+- **Strength:** 7 [-2]  
+- **Dexterity:** 10 [0]  
+- **Constitution:** 11 [+0]  
+- **Intellect:** 19 [+4]  
+- **Wisdom:** 20 [+5]  
+- **Charisma:** 14 [+2]  
+
 ### **Skills & Talents:**  
 - Dreamwalking and prophecy  
 - Skilled in illusion and veiled communication  

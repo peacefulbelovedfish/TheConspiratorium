@@ -8,6 +8,14 @@
 ### **Personality:**  
 Lirien is calm, introspective, and deeply philosophical. She believes in the power of knowledge and the necessity of uncovering secrets to combat corruption. She is highly connected in political circles and often uses her influence to push for transparency. However, her calculated nature can make her seem distant or unfeeling. 
 
+### **Stats:**  
+- **Strength:** 8 [-1]  
+- **Dexterity:** 10 [0]  
+- **Constitution:** 12 [+1]  
+- **Intellect:** 17 [+3]  
+- **Wisdom:** 15 [+2]  
+- **Charisma:** 12 [+1]  
+
 ### **Skills & Talents:**  
 - Expert in historical research and record-keeping  
 - Skilled in cryptography and deciphering ancient texts  

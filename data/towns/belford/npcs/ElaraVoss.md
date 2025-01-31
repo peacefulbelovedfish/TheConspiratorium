@@ -8,6 +8,14 @@
 ### **Personality:**  
 Elara is enigmatic and reserved, deeply devoted to fate and the natural order of death. Unlike her sister [Lirien](./LirienVoss.md), who actively seeks the truth, Elara believes that some knowledge is too dangerous to uncover. She is patient but firm, always speaking in careful, measured tones. 
 
+### **Stats:**  
+- **Strength:** 9 [-1]  
+- **Dexterity:** 11 [0]  
+- **Constitution:** 14 [+2]  
+- **Intellect:** 12 [+1]  
+- **Wisdom:** 18 [+4]  
+- **Charisma:** 10 [0]  
+
 ### **Skills & Talents:**  
 - Master of fate-weaving and prophetic divination  
 - Skilled in performing last rites and guiding lost souls  
