@@ -81,26 +81,30 @@ Hidden beneath the decaying remains of the Old Tanning Factory, the Gilded Shado
 
 ## **Notable NPCs**
 
-### **Garlo "Ox" Belmaris** *(Guild Kingpin)*
-- **Race:** Half-Orc
-- **Class:** Rogue (Mastermind)
-- **Description:** Muscular, refined, and always dressed in expensive clothing.
-- **Personality:** Calculated, charming, and utterly ruthless when necessary.
-- **Abilities:** Master tactician, skilled duelist, manipulative speaker.
 
-### **Dalia Thorn** *(Vault Keeper)*
-- **Race:** Tiefling
-- **Class:** Wizard (Abjurer)
-- **Description:** Dark red skin, sharp golden eyes, wears fine but practical robes.
-- **Personality:** Pragmatic, secretive, protective of the guild’s wealth.
-- **Abilities:** Specializes in wards, barriers, and counter-spells.
+### **[Garlo "Ox" Belmaris](../npcs/GarloBelmaris.md)** *(Guild Kingpin)*  
+- **Race:** Half-Orc  
+- **Class:** Rogue (Mastermind)  
+- **Description:** A calculating and ruthless leader, Garlo controls every aspect of the guild’s operations.  
+- **Role in the Guild:** Ensures **absolute order** in the underworld, eliminating threats before they surface.  
 
-### **Veylan "Whisper" Draeve** *(Head of Security)*
-- **Race:** Elf
-- **Class:** Fighter (Battle Master)
-- **Description:** Lean and deadly, always watching from the shadows.
-- **Personality:** Cautious, distrustful, values efficiency over honor.
-- **Abilities:** Expert with blades, skilled in setting and disabling traps.
+### **[Jamie "The Coyote" Watt](../npcs/JamieWatt.md)** *(Information Broker)*  
+- **Race:** Human  
+- **Class:** Rogue (Scout)  
+- **Description:** A charismatic middleman, Jamie connects clients to **guild jobs**, skimming a profit off every deal.  
+- **Role in the Guild:** He is **not fully trusted** by Garlo but remains useful—for now.  
+
+### **[Dalia Thorn](../npcs/DaliaThorn.md)** *(Vault Keeper & Arcane Specialist)*  
+- **Race:** Tiefling  
+- **Class:** Wizard (Abjurer)  
+- **Description:** Oversees **magical security** and protects the **guild’s vault** with arcane wards.  
+- **Role in the Guild:** Trusted advisor, in charge of **securing wealth and artifacts**.  
+
+### **[Veylan "Whisper" Draeve](../npcs/VeylanDraeve.md)** *(Head of Security)*  
+- **Race:** Elf  
+- **Class:** Fighter (Battle Master)  
+- **Description:** A deadly tactician, Whisper ensures that **no one betrays the guild and lives**.  
+- **Role in the Guild:** Directs **guild enforcers**, sets traps, and manages **escape protocols**.  
 
 ---
 

@@ -39,7 +39,7 @@ Elara is enigmatic and reserved, deeply devoted to fate and the natural order of
 
 ### **Secrets & Hooks:**  
 - She has already encountered signs of undead presence in the city  
-- She suspects the [Umbral Pact](../factions/UmbralPact.md) is not acting alone  
+- She suspects the [Umbral Pact](../guilds/UmbralPact.md) is not acting alone  
 
 ### **Quotes:**  
 - "The dead do not dream, Lunara. Only fools dream of avoiding death."
