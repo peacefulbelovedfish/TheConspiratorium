@@ -1740,7 +1740,7 @@ This sets the stage for a major revelation down the line while keeping the immed
 You said:
 Notes and adjustments:
 
-1a) The Diplomat is theoretically still there - we'll rename lanecross - something like Kravakla. 
+1a) The Diplomat is theoretically still there - we'll rename lanecross - something like Krakavla . 
 Also - we need to rename Lirian - it's too similar to some of the religious leaders (I like the last name Voss).
 
 1b) The Four Sea Sons are respectable - and Gavin's father (who had the four sons) was known to run shipments on the regular.  Gavin almost certainly knew Ellis in a professional setting - which over time lent itself to a trustworthy relationship and Ellis knew eventually he could trust gavin to handle sensitive messages.  Gavin KNOWS that Ellis coordinates with forces to stop "evil ongoings" and he TRUSTS Ellis.  He may not know the EXTENT - but there is mutual trust between the two. 
@@ -1755,10 +1755,10 @@ Updated Notes & Adjustments
 Name: Ambassador Renna Voss
 Race: High Elf
 Title & Role: Diplomatic Envoy of Myendria
-Mission Location: Kravakla (previously Lanescross) – a neutral border city known for its political dealings.
+Mission Location: Krakavla  (previously Lanescross) – a neutral border city known for its political dealings.
 Personality: A composed and calculating diplomat, Renna Voss has spent decades navigating delicate political landscapes. She’s known for her sharp mind, measured words, and an unwavering belief that knowledge is the key to preserving peace—and sometimes, that means keeping dangerous secrets locked away.
 Current Status:
-Renna is theoretically still in Kravakla, finishing her diplomatic assignment.
+Renna is theoretically still in Krakavla , finishing her diplomatic assignment.
 Does she know the list was stolen? Maybe not. If she does, she may be working behind the scenes to recover it, or she may think Ellis is still in possession of it and awaiting his return.
 She has no idea that Vecna’s forces are already at work within Belford.
 
@@ -2335,7 +2335,7 @@ Silver Tongue (Feat) – Rerolls 1s on Persuasion.
 Observant (Feat) – Notices details others miss.
 Weapons & Gear:
 Ornate Rapier (+6, 1d8+2 piercing) – More ceremonial than practical.
-Signet Ring of Kravakla – Official seal of office.
+Signet Ring of Krakavla  – Official seal of office.
 Hidden Letter Cipher – Used to encode messages.
 Magic Quill (Minor Enchantment) – Writes silently & invisibly, revealing text only under moonlight.
 Tactics in a Fight:
@@ -2357,7 +2357,7 @@ I thought we had a nane for the diplomat
 ChatGPT said:
 ChatGPT
 You're right! The diplomat’s name is Ellis Fairweather—he’s the one who personally handed the letter to Gavin, which was unusual since someone else normally delivers the package.
-Ellis is still with Renna Voss in Kravakla, and while Gavin knows of him, their trust is built professionally over time. Ellis has always worked to coordinate efforts against "evil ongoings", but Gavin doesn’t know the full extent of his work—just enough to trust that whatever he’s doing is important.
+Ellis is still with Renna Voss in Krakavla , and while Gavin knows of him, their trust is built professionally over time. Ellis has always worked to coordinate efforts against "evil ongoings", but Gavin doesn’t know the full extent of his work—just enough to trust that whatever he’s doing is important.
 We also still need to flesh out who the Count is, but that can be for a future session. Milly will be the one to point the party toward the temples (starting with the twin elf sisters, Lirien and Elara Voss).
 Does that all sound right? Let me know if you want to tweak anything before we move forward! 🚀
 You said:
@@ -2376,8 +2376,8 @@ ChatGPT said:
 ChatGPT
 1) Renna’s Last Name & Diplomatic Title
 Renna’s new last name: **Renna Voss → Renna Dainhart
-Diplomatic Title: Belford’s Envoy to Kravakla
-She is the official diplomatic representative of Belford in Kravakla, handling political negotiations, trade agreements, and international correspondence. While she is technically loyal to Belford’s ruling leadership, she’s not oblivious to the deeper political struggles happening beneath the surface—hence why she works with Ellis.
+Diplomatic Title: Belford’s Envoy to Krakavla 
+She is the official diplomatic representative of Belford in Krakavla , handling political negotiations, trade agreements, and international correspondence. While she is technically loyal to Belford’s ruling leadership, she’s not oblivious to the deeper political struggles happening beneath the surface—hence why she works with Ellis.
 
 2) Character Sheet for Ellis Fairweather
 Race: Human
@@ -2429,7 +2429,7 @@ ChatGPT
 You're right—we’ve built out a ton, but there are still a few key things that could be refined. Here’s a checklist of what we’ve worked on and some remaining areas that could benefit from additional detail:
 
 ✅ Things We’ve Already Established
-✔ The Letter’s Origin & Importance – Written by a diplomat’s courier (Ellis Fairweather) based on a conversation overheard in Kravakla. It contains names of political figures in Belford being manipulated by Vecna’s followers.
+✔ The Letter’s Origin & Importance – Written by a diplomat’s courier (Ellis Fairweather) based on a conversation overheard in Krakavla . It contains names of political figures in Belford being manipulated by Vecna’s followers.
 ✔ Gavin’s Role & Concern – Expected cargo but instead received the letter directly from Ellis. He trusts Ellis but is shaken by the odd circumstances.
 ✔ The Count’s Identity – A codename for someone working in one of the temples. Milly knows that they can help but doesn’t know their true identity.
 ✔ Religious Factions & Temple Leaders – The Voss sisters (Lirien & Elara) lead the Temple of Ioun and Raven Queen, respectively. Other major temples include Bahamut, Pelor, Sehanine, and Kord.
