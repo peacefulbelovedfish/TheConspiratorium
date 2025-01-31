@@ -21,11 +21,6 @@ Years ago, a drunk sailor picked a fight in her bar, breaking furniture and hara
 Without hesitation, Milly grabbed him by the scruff of his collar and personally tossed him out the front door. 
 The event has since become a running joke among regulars, particularly one patron who loves to bring it up whenever things get rowdy. 
 Milly secretly appreciates the attention, but she always waves it off with a gruff, 'That was years ago—he had it coming.'  
-Milly is an energetic, no-nonsense innkeeper with a sharp tongue and an even sharper eye for trouble. 
-She runs The Third Tusk with a mix of motherly concern and exasperated pragmatism. 
-She tolerates a bit of mischief but has zero patience for anyone messing up her establishment. 
-Beneath her tough exterior, she has a deep care for the people of Belford and a strong sense of community loyalty. 
-She’s well-connected, both among legitimate business owners and the people in the city, making her an invaluable source of information.
 
 ### **Skills & Talents:**  
 - Expert in reading people and uncovering hidden motives  
@@ -33,14 +28,11 @@ She’s well-connected, both among legitimate business owners and the people in 
 - Can cast minor blessings of luck and fortune  
 - Navigates social and business dealings with shrewd expertise  
 
-### **Notable Features:**
-- Wears a patchwork apron
-- Has a light red beard, it doesn't grow too long but is very well manicured. She takes pride in her appearance.
-- Wrinkled face shows wear and tear, but she has kind, light red, glow to her eyes.
-- A single silver bead is woven into her hair—a subtle memento she never speaks about. It is nearly imperceptible, requiring a keen eye or a deeply personal moment to notice.  
-- Wears a patchwork apron
-- Has a light red beard, it doesn't grow too long but is very well manicured.  She takes pride in her appearance. 
-- Wrinkled face shows wear and tear, but she has kind, light red, glow to her eyes. 
+### **Notable Features:**  
+- **Patchwork apron** – Worn, faded, but always functional.  
+- **Light red beard** – Doesn't grow too long, but **meticulously manicured**.  
+- **Kind yet hardened face** – Wrinkled, showing years of experience.  
+- **Silver bead woven into her hair** – A **subtle, deeply personal memento**.  
 
 ### **Wants:**  
 - A comfortable, stable life running The Third Tusk  

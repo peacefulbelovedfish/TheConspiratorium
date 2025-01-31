@@ -24,11 +24,11 @@ She is secretly **The Countess**, believing herself to be Sehanine’s Chosen Me
 - Able to sense disturbances in the flow of fate  
 - Can invoke moonlit protections to shield allies  
 
-### **Notable Features:**
-- Often speaks in riddles when conversing with her sisters, [Lirien](./LirienVoss.md) and [Elara](./ElaraVoss.md), both of whom have contrasting views on fate and knowledge.
-- Wears flowing silver robes that shimmer like moonlight  
-- Has deep, glowing blue eyes that seem to pierce into one’s soul  
-- Often speaks in riddles, never revealing her full knowledge outright  
+### **Notable Features:**  
+- **Ethereal presence** – Moves with an otherworldly grace.  
+- **Silver robes** – Flowing, moonlit fabric that shimmers subtly.  
+- **Glowing blue eyes** – Seem to pierce into one’s soul.  
+- **Elusive & cryptic** – Often speaks in riddles when conversing with her sisters, [Lirien](./LirienVoss.md) and [Elara](./ElaraVoss.md), both of whom have contrasting views on fate and knowledge.  
 
 ### **Wants:**  
 - To subtly guide the party toward the truth without revealing herself  
