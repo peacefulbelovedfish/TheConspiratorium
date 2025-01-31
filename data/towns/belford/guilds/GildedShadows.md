@@ -2,21 +2,21 @@
 
 **Location:** Hidden beneath the Old Tanning Factory, Belford  
 **Type:** Criminal Guild Hideout  
-**Owner:** Garlo "Ox" Belmaris  
+**Leader:** Garlo "Ox" Belmaris  
 **Primary Use:** Base of operations for the Gilded Shadows, a powerful thieves' guild  
 
 ---
 
 ## Player Description:
-From the outside, there is no indication that anything of value lies within the decrepit remains of the old tanning factory. The place stinks of damp leather and chemicals long seeped into the floor, its broken vats and rusted tools a testament to its abandonment. But for those who know where to look, the factory is merely a shell—a false front disguising something far more deliberate.
 
-Past the ruined workstations and the yawning vats of stagnant water, a hidden entrance waits behind a warped storage cabinet, its surface still etched with the tally marks of workers long gone. A precise touch—three quick raps and a downward press—unseals the heavy stone panel behind it, revealing a descending stairway, the scent of damp industry fading as it gives way to something richer, more intoxicating.
+## **Player Description:**  
+From the outside, the [Old Tanning Factory](../towns/belford/OldTanningFactory.md) appears abandoned, its stench of decayed leather lingering in the air. The crumbling vats and rusted tools speak of a business long dead. But for those who know where to look, this ruin conceals the most lucrative criminal empire in Belford.
 
-Beneath the factory, the contrast is stark. The Gilded Shadows' hideout is a cavernous sanctuary of illicit success. Silken banners drape the walls, their embroidered patterns catching the flickering glow of golden candelabras. Thick rugs soften the stone beneath footfalls, and every surface, from the polished darkwood tables to the intricately carved chairs, is a casual display of wealth.
+A secret entrance lies behind a **warped storage cabinet**, its surface etched with the tally marks of forgotten workers. A **precise knock sequence**—three quick raps and a downward press—unseals a heavy stone panel, revealing a descending stairway into opulence.
 
-At the heart of the space, a long banquet table is always laden with food, drink, and loose coin, as if to remind those who enter just how profitable life can be for those willing to take it. Hidden corridors snake away from the main hall—some leading to private quarters, others to passageways that spill into the city's underbelly, allowing the guild to come and go unseen.
+Beneath the factory, the contrast is stark. The **Gilded Shadows’ hideout** is a **lavish underground lair**, filled with **silken banners, fine rugs, and golden candelabras**. Every piece of furniture, from the polished darkwood tables to the velvet-lined chairs, is a display of wealth, all taken from Belford’s elite. 
 
-The air is thick with the scent of expensive tobacco and exotic spices, a stark contrast to the rotting leather above. Here, in the depths of Belford, power thrives in the shadows, hidden in plain sight beneath the bones of a forgotten trade.
+The air is **thick with the scent of exotic tobacco and fine wines**, a stark contrast to the filth above. This is not just a hideout—it is a testament to **power earned in the shadows**.
 
 ## **General Description**
 
