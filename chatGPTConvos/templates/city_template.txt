@@ -1,0 +1,119 @@
+# [CityName]
+**Country:** [KingdomOrRegion]  
+
+## Player History  
+- [Brief note on the city's importance to the campaign.]  
+- Example: Location where the party first arrived, in **[InnName](../../inns/InnName.md)**.  
+
+---
+
+## City History  
+[Provide a brief or expanded history of the city. Cover key historical events, notable rulers, or its founding story.]  
+
+---
+
+## Player Description  
+[CityName] is a **[size]** **[type of city: port city, capital, trade hub, etc.]** located in **[geographic location]**. The streets are **[describe general atmosphere, traffic, and population density]**.  
+
+The air is filled with **[scents specific to the city: food, industry, nature, filth]**.  
+
+Sounds of the city include:  
+- **[Industry sounds: blacksmith, market cries, carts, etc.]**  
+- **[Animal sounds if applicable]**  
+- **[Religious or cultural sounds, like temple bells or battle drums]**  
+
+The city feels **[tone: bustling, oppressive, mysterious, magical, etc.]**, with **[specific environmental details]**.  
+
+### Other Often Perceivable Things  
+- **[Guard presence and description]**  
+- **[Any strange, unique, or magical occurrences that are common in the city]**  
+
+---
+
+## Governance  
+### Primary Power  
+- **[Who rules the city?]** Example: **Lord/Lady Name**, appointed by **[King, Council, Republic]**.  
+
+### Secondary Power  
+[What other factions influence the city?] Example:  
+
+#### Merchants' Guild  
+- Holds political sway due to economic influence.  
+- Often seen working alongside city rulers.  
+- **[GuildMasterName](../../towns/CityName/NPCs/GuildMasterName.md)** is frequently seen near **[governing figures or locations]**.  
+
+#### Thieves' Guild – *[GuildName](../../guilds/GuildName.md)*  
+- Operates **[what kind of criminal activity]** behind the scenes.  
+- Their **hideout**, *[HideoutName]*, is located **[where?]**.  
+- Often in conflict or alliance with **[other factions]**.  
+
+---
+
+## Policing  
+### Town Guard  
+- **[Where is their HQ?]** Example: The **Government Building** serves as the central hub for the **Town Guard**.  
+- **[What special policing divisions exist?]** Example:  
+  - The **Order of the Mage** guards **[magical locations or teleportation circles]**.  
+  - Protective **sigils** align the **[walls of key locations]**.  
+
+#### Guard Houses  
+- **[Are they well-maintained or corrupt?]**  
+- **[Names and personalities of commanding officers]**  
+- Example: **[SergeantName](../../towns/CityName/NPCs/SergeantName.md)** runs **[well-maintained or disorganized]** guard operations.  
+
+### Known Laws  
+- **[Notable laws the party should be aware of]**  
+- Example: **Magic against others is illegal in city limits**.  
+
+---
+
+## Defenses  
+- **[Walls, gates, and protection status]**  
+- **[Port/naval defenses if applicable]**  
+- **[Who funds/protects the city?]**  
+
+---
+
+## Culture  
+### Economic Focus  
+- **[What drives the economy?]**  
+- Example: Trade, farming, magic, black market, sea commerce, etc.  
+
+### Religious Presence  
+[What deities or religious orders are common?] Example:  
+
+- **[Deity]** – *[TempleName](../../temples/TempleName.md)*  
+  - Led by **[Cleric/PriestName](../../towns/CityName/NPCs/ClericName.md)**.  
+- **[Deity]** – *[AnotherTempleName](../../temples/AnotherTempleName.md)*  
+
+---
+
+## Notable Establishments  
+### [Inn/Tavern Name] (*[Type: Inn, Tavern, Gambling Hall, etc.]* - Party's Starting Location?)  
+- **[General description of the establishment]**  
+- **Prices:**  
+  - **Meals** – [Price]  
+  - **Ale** – [Price]  
+
+#### Notable NPCs  
+- **[NPC Name](../../towns/CityName/NPCs/NPCName.md)** (*[Role: owner, bartender, etc.]*).  
+- **[NPC Name](../../towns/CityName/NPCs/NPCName.md)** (*[Brief description of goals, fears, motivations]*).  
+
+### [Other Important Business]  
+- **[What does it provide?]** Example: Chauncey’s Armory – *A high-end blacksmith shop.*  
+
+### [Notable Ports or Shipyards]  
+- **[Description of harbor activity and major ship companies]**  
+- **Notable Company:** *[CompanyName](../../towns/CityName/NPCs/CompanyOwner.md)*  
+
+---
+
+## How to Use This Template  
+- **Replace `[CityName]`** with the actual city's name.  
+- **Replace `[NPC Name]`, `[Temple Name]`, `[Inn/Tavern Name]`, etc.**  
+- **Follow lowercase folder paths for consistency.**  
+- **Ensure all NPCs have corresponding files in `../../towns/CityName/NPCs/`.**  
+
+---
+
+This **keeps your cities consistent** across the campaign and ensures easy linking between locations, NPCs, and factions. Would you like additional sections added? 🚀

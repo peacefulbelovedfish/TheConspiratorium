@@ -1,0 +1,99 @@
+# [CharacterName]
+**Race:** [Race]  
+**Class:** [Class]  
+**Alignment:** [Alignment]  
+**Affiliation:** *[Guild, Faction, or City]*  
+
+### **Stats:**  
+- **Strength:** 9 [-1]  
+- **Dexterity:** 12 [+1]  
+- **Constitution:** 14 [+2]  
+- **Intellect:** 14 [+2]  
+- **Wisdom:** 10 [0]  
+- **Charisma:** 12 [+1]  
+
+## Description  
+[Brief description of the character’s appearance, demeanor, and notable features.]  
+- **Height:** [Character height]  
+- **Build:** [Lean, muscular, frail, etc.]  
+- **Hair:** [Color, style]  
+- **Eyes:** [Eye color]  
+- **Skin:** [Complexion or notable markings]  
+- **Distinct Features:** [Scars, tattoos, unique traits]  
+
+## Personality  
+[How does the character behave? What are their quirks, fears, or motivations?]  
+
+- **Mannerisms:** [Nervous ticks, confident posture, etc.]  
+- **Strengths:** [What are they good at?]  
+- **Weaknesses:** [What do they struggle with?]  
+- **Fears:** [What terrifies them?]  
+- **Goals:** [What are they trying to achieve?]  
+
+---
+
+## Background  
+[Provide a brief history of the character, covering where they come from and any key life events.]  
+
+### Family & Relationships  
+- **Father:** [Name] – *[Role/Job]*  
+- **Mother:** [Name] – *[Role/Job]*  
+- **Siblings:** [If any]  
+- **Close Friends/Allies:**  
+  - **[NPC Name](../../towns/[TownName]/NPCs/NPCName.md)** (*[Role or Connection]*).  
+  - **[NPC Name](../../towns/[TownName]/NPCs/NPCName.md)** (*[Role or Connection]*).  
+- **Rivals/Enemies:**  
+  - **[NPC Name](../../towns/[TownName]/NPCs/NPCName.md)** (*[Reason for rivalry]*).  
+
+---
+
+## Skills & Abilities  
+[What makes this character unique?]  
+
+### Notable Skills  
+- **[Skill Name]** – [Brief description of how they use it]  
+- **[Skill Name]** – [Brief description]  
+- **[Skill Name]** – [Brief description]  
+
+### Combat Abilities (If applicable)  
+- **Weapons:** [Preferred weapons]  
+- **Armor:** [Light, heavy, robes, etc.]  
+- **Tactics:** [How do they fight? Any special techniques?]  
+
+---
+
+## Equipment & Items  
+[What important gear do they carry?]  
+
+### Notable Possessions  
+- **[Item Name]** – [Brief description of significance]  
+- **[Item Name]** – [Where did they get it?]  
+
+### Wealth & Resources  
+- **Gold:** [Amount or lifestyle level]  
+- **Connections:** [Who do they know that could help them?]  
+
+---
+
+## Role in the Campaign  
+[How does this character fit into the game world?]  
+- **First Encountered:** [Where the players met them]  
+- **Current Role:** [What are they doing now?]  
+- **Potential Future Arcs:** [What could happen next?]  
+
+---
+
+## Notes  
+[Extra details that don’t fit elsewhere.]  
+
+---
+
+## How to Use This Template  
+- **Replace `[CharacterName]`** with the actual character’s name.  
+- **Use lowercase folder paths for links** (e.g., `../../towns/[TownName]/NPCs/`).  
+- **Stick to CamelCase for filenames.**  
+- **Keep descriptions concise, but rich in detail.**  
+- **If you were passed stats, use them.  If not, roll for stats.
+---
+
+This template ensures **all NPC characters follow a structured format**, making them easy to reference and expand upon. Let me know if you'd like to add anything! 🚀
