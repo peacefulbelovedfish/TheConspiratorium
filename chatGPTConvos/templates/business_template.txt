@@ -1,0 +1,82 @@
+# [BusinessName]
+**Type:** [Inn, Tavern, Blacksmith, Magic Shop, General Store, etc.]  
+**Location:** *[Town or City Name]*  
+**Owner(s):** [Owner Name](../../towns/[TownName]/NPCs/[OwnerName].md)  
+
+## Description  
+[Brief description of the business, its reputation, and its overall appearance.]  
+
+- **Exterior:** [What does the building look like from the outside?]  
+- **Interior:** [What does it feel like inside? Is it crowded, cozy, dangerous, etc.?]  
+- **Atmosphere:** [Noisy, quiet, friendly, exclusive, etc.]  
+- **Common Customers:** [Who typically shops or stays here?]  
+
+---
+
+## Services & Goods  
+[What does the business offer?]  
+
+### Products & Prices  
+- **[Item Name]** – [Description] – **[Price]**  
+- **[Item Name]** – [Description] – **[Price]**  
+- **[Item Name]** – [Description] – **[Price]**  
+
+### Lodging (If applicable)  
+- **Basic Room:** [Cost per night]  
+- **Luxury Suite:** [Cost per night]  
+
+### Special Services  
+- **[Unique Service]** – [Description & price]  
+- **[Unique Service]** – [Description & price]  
+
+---
+
+## Notable NPCs  
+[Who works here?]  
+
+- **[Owner Name](../../towns/[TownName]/NPCs/[OwnerName].md)** (*Owner/Manager*) – [Brief description]  
+- **[Employee Name](../../towns/[TownName]/NPCs/[EmployeeName].md)** (*Job Title*) – [Brief description]  
+
+---
+
+## Business Relations  
+### Allies & Partners  
+- **[Merchant/Guild Name](../../guilds/[GuildName].md)** – [Relationship details]  
+- **[Other Business Name](../../towns/[TownName]/Businesses/[OtherBusinessName].md)** – [Trade agreements, alliances, etc.]  
+
+### Rivals & Enemies  
+- **[Competing Business Name](../../towns/[TownName]/Businesses/[CompetingBusinessName].md)** – [Reason for rivalry]  
+- **[Criminal Connection](../../guilds/[ThievesGuildName].md)** – [Are they involved in illegal dealings?]  
+
+---
+
+## Rumors & Secrets  
+[What do people say about this business?]  
+
+- **Rumor:** [Interesting or false piece of gossip]  
+- **Secret:** [Hidden truth known by few]  
+
+---
+
+## Role in the Campaign  
+[How does this business fit into the game world?]  
+- **First Encountered:** [Where the players found it]  
+- **Current Role:** [How it affects the players or the town]  
+- **Potential Future Arcs:** [Possible developments or quests related to it]  
+
+---
+
+## Notes  
+[Extra details that don’t fit elsewhere.]  
+
+---
+
+## How to Use This Template  
+- **Replace `[BusinessName]`** with the actual name.  
+- **Use lowercase folder paths for links** (e.g., `../../towns/[TownName]/Businesses/`).  
+- **Stick to CamelCase for filenames.**  
+- **Keep details clear but flexible for easy expansion.**  
+
+---
+
+This template ensures **all businesses follow a structured format**, making them easy to reference and integrate into your world. Let me know if you'd like to add anything! 🚀
