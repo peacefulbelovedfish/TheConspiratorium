@@ -10,7 +10,7 @@
 ## Player Description:
 
 ## **Player Description:**  
-From the outside, the [Old Tanning Factory](../towns/belford/OldTanningFactory.md) appears abandoned, its stench of decayed leather lingering in the air. The crumbling vats and rusted tools speak of a business long dead. But for those who know where to look, this ruin conceals the most lucrative criminal empire in Belford.
+From the outside, the Old Tanning Factory appears abandoned, its stench of decayed leather lingering in the air. The crumbling vats and rusted tools speak of a business long dead. But for those who know where to look, this ruin conceals the most lucrative criminal empire in Belford.
 
 A secret entrance lies behind a **warped storage cabinet**, its surface etched with the tally marks of forgotten workers. A **precise knock sequence**—three quick raps and a downward press—unseals a heavy stone panel, revealing a descending stairway into opulence.
 
@@ -107,6 +107,11 @@ Hidden beneath the decaying remains of the Old Tanning Factory, the Gilded Shado
 - **Role in the Guild:** Directs **guild enforcers**, sets traps, and manages **escape protocols**.  
 
 ---
+
+## **Rumors About the Guild**  
+- *"They say Garlo once killed a man just by staring at him. Don't ask me if it's true—I like my head attached."*  
+- *"Ever noticed how the city guard never raids them? Someone’s getting paid off, that’s for damn sure."*  
+- *"They got a vault down there. Not just gold—secrets. And some secrets are worth more than coin."*  
 
 ## **Hooks & Plot Ideas**
 
