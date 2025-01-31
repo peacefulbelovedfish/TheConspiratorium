@@ -2,6 +2,7 @@
 
 # Base directory (modify if needed)
 BASE_DIR="data/towns"
+CAMPAIGN_DIR="campaigns"
 
 # Function to create NPCs
 make_npc() {
@@ -225,6 +226,110 @@ list_npcs_city() {
     echo "-----------------------------------------------------------------------------------------------------------------"
 }
 
+
+# Function to create a session log file
+make_session() {
+    CAMPAIGN_NUM="$1"
+    SESSION_NUM="$2"
+    SESSION_DIR="${CAMPAIGN_DIR}/campaign${CAMPAIGN_NUM}"
+    SESSION_FILE="${SESSION_DIR}/session_${SESSION_NUM}.md"
+
+    mkdir -p "$SESSION_DIR"
+    if [ -f "$SESSION_FILE" ]; then
+        echo "⚠️  Session file already exists: $SESSION_FILE"
+    else
+        cat > "$SESSION_FILE" <<EOL
+# Session ${SESSION_NUM}
+
+**Campaign:** Campaign ${CAMPAIGN_NUM}  
+**Date:** [Insert Date]  
+**Players Present:**  
+
+## **Summary:**  
+[Write session details here.]  
+
+## **Key NPCs Met:**  
+-  
+
+## **Major Events & Decisions:**  
+-  
+
+## **Loot & Rewards:**  
+-  
+
+## **Next Steps / Future Hooks:**  
+-  
+EOL
+        echo "✅ Session file created: $SESSION_FILE"
+    fi
+}
+# Function to create a session planning file
+make_session_plan() {
+    CAMPAIGN_NUM="$1"
+    SESSION_NUM="$2"
+    SESSION_DIR="${CAMPAIGN_DIR}/campaign${CAMPAIGN_NUM}/planning"
+    SESSION_FILE="${SESSION_DIR}/session_${SESSION_NUM}.md"
+
+    mkdir -p "$SESSION_DIR"
+    if [ -f "$SESSION_FILE" ]; then
+        echo "⚠️  Session planning file already exists: $SESSION_FILE"
+    else
+        cat > "$SESSION_FILE" <<EOL
+# Session ${SESSION_NUM} Planning
+
+**Campaign:** Campaign ${CAMPAIGN_NUM}  
+**Date:** [Insert Date]  
+**Objectives:**  
+-  
+
+## **Expected Player Actions:**  
+-  
+
+## **Key NPCs & Encounters:**  
+-  
+
+## **Major Plot Points to Introduce:**  
+-  
+
+## **World Changes or Faction Shifts:**  
+-  
+
+## **Challenges & Potential Diversions:**  
+-  
+
+## **GM Notes:**  
+-  
+EOL
+        echo "✅ Session planning file created: $SESSION_FILE"
+    fi
+}
+# Function to create a description file
+make_description() {
+    PLACE="$1"
+    DESCRIPTION="$2"
+    DESC_DIR="${BASE_DIR}/descriptions"
+    DESC_FILE="${DESC_DIR}/${PLACE}.md"
+
+    mkdir -p "$DESC_DIR"
+    if [ -f "$DESC_FILE" ]; then
+        echo "⚠️  Description file already exists: $DESC_FILE"
+    else
+        cat > "$DESC_FILE" <<EOL
+# $PLACE  
+
+## **Description:**  
+$DESCRIPTION  
+
+## **Additional Details:**  
+- [Expand on environment, notable features, or sensory details here.]  
+
+## **Potential Connections:**  
+- [How does this setting relate to NPCs, quests, or world events?]  
+EOL
+        echo "✅ Description file created: $DESC_FILE"
+    fi
+}
+
 # Function to display help menu
 show_help() {
     echo "---------------------------------------------------------"
@@ -237,6 +342,9 @@ show_help() {
     echo "  makeBusiness <city> <name>     - Create a new Business file"
     echo "  makeGuild <city> <name>        - Create a new Guild file"
     echo "  makeTemple <city> <name>       - Create a new Temple file"
+    echo "  session <campaign> <session>   - Creates a new session log"
+    echo "  sessionPlan <campaign> <session> - Creates a session planning file"
+    echo "  describe <Place> <Description> - Creates a Markdown file for location/setting descriptions"
     echo "  listNpcs [city]                - List all NPCs, or filter by city"
     echo "  help                           - Show this help menu"
     echo ""
@@ -245,6 +353,9 @@ show_help() {
     echo "  dnd makeBusiness belford TheFourSeaSons"
     echo "  dnd listNpcs"
     echo "  dnd listNpcs belford"
+    echo "  dnd session 2 3      # Creates a session log for Campaign 2, Session 3"
+    echo "  dnd sessionPlan 2 3  # Creates a session planning file for Campaign 2, Session 3"
+    echo "  dnd describe Tavern \"A rustic inn with the scent of roasted meats and old ale.\""
     echo ""
     echo "---------------------------------------------------------"
 }
@@ -263,12 +374,14 @@ case "$1" in
     makeTemple)
         make_temple "$2" "$3"
         ;;
-    listNpcs)
-        if [ -n "$2" ]; then
-            list_npcs_city "$2"
-        else
-            list_npcs
-        fi
+    session)
+        make_session "$2" "$3"
+        ;;
+    sessionPlan)
+        make_session_plan "$2" "$3"
+        ;;
+    describe)
+        make_description "$2" "$3"
         ;;
     help)
         show_help
