@@ -307,7 +307,7 @@ EOL
 make_description() {
     PLACE="$1"
     DESCRIPTION="$2"
-    DESC_DIR="${BASE_DIR}/descriptions"
+    DESC_DIR="${CAMPAIGN_DIR}/campaign2/descriptions"
     DESC_FILE="${DESC_DIR}/${PLACE}.md"
 
     mkdir -p "$DESC_DIR"
