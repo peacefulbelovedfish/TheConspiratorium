@@ -77,3 +77,26 @@
 - **Brief History & Interesting Info:**  
   Luthic is **the goddess of orcish clans, strength, and the bonds of family**. Where Kord values individual might, Luthic **values strength for the sake of the tribe.**  
 
+
+
+## Pantheon Additions: Lesser Gods of the Sun and Moons
+
+### 🌙 **[Vaelith Sonati](../deities/lessergods/VaelithSonati.md)** – The Dreamtide
+**Domains:** Mysticism, Dreams, Prophecy, Tides, Silver Wilds  
+**Symbol:** A crescent moon entwined with flowing water  
+
+### 🌙 **[Astraeus](../deities/lessergods/Astraeus.md)** – The Cosmic Arbiter
+**Domains:** Order, Knowledge, Structure  
+**Symbol:** An open book beneath a starry sky  
+
+### ☀️ **[Zenthos the Steadfast](../deities/lessergods/ZenthosTheSteadfast.md)** – The Eternal Pillar
+**Domains:** Strength, Stability, Endurance  
+**Symbol:** A radiant sun encircled by an unbroken chain  
+
+### **Integration Notes:**
+- Vaelith Sonati aligns with **Sehanine**, embracing fluidity, fate, and the balance between instinct and prophecy.  
+- Astraeus follows **Ioun**, ensuring that knowledge and structure remain unwavering, even in the face of chaos.  
+- Zenthos upholds **Pelor’s** divine light, representing the power of endurance and leadership through stability.  
+
+These additions fit seamlessly into the existing pantheon, enriching the divine struggles and mortal faiths that shape the world.
+
