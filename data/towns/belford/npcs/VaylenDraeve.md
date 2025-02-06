@@ -30,7 +30,7 @@ He **doesn’t aspire to leadership**—he's not second-in-command, and he likes
 ### **Skills & Talents:**  
 - **Master of silent intimidation**—he doesn’t need threats; his presence alone is enough.  
 - **Deadly efficient in a fight**, favoring **precise, quick takedowns** over brute strength.  
-- **Understands the guild game**—loyal to Garlo "Ox" Belmaris, but never blind to the risks.  
+- **Understands the guild game**—loyal to [Garlo "Ox" Belmaris](../npcs/GarloBelmaris.md), but never blind to the risks.  
 - **Tactician & strategist**, ensuring the Gilded Shadows' operations stay under control.  
 - **Commands respect**—guild members are loyal to him, even if they fear him a little.  
 

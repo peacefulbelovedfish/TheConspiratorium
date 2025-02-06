@@ -3,7 +3,7 @@
 **Race:** Goliath  
 **Class:** Fighter  
 **Alignment:** Lawful Neutral  
-**Affiliation:** [Belford Town Guard](../factions/BelfordTownGuard.md)  
+**Affiliation:** [Belford Town Guard](../guilds/BelfordTownGuard.md)  
 
 ### **Visual Description:**  
 A **massive 62-year-old Goliath** with **a powerful, battle-worn presence**.  

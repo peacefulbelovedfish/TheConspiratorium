@@ -29,7 +29,7 @@ He is careful about **who he trusts** and plays **the long game when it comes to
 
 ### **Connections & Secrets:**  
 - **The Countess and the anti-Vecna forces suspect Vecna’s reach goes all the way to the top of Belford’s leadership.**  
-- **Ellis, Gavin Waterford, and Renna Dainhart are all involved in efforts to counteract Vecna’s influence.**  
+- **Ellis, [Gavin Waterford](../npcs/GavinWaterford.md), and [Renna Dainhart](../npcs/RennaDainhart.md) are all involved in efforts to counteract Vecna’s influence.**  
 - **It is unclear if Renna knows Ellis is receiving information**, or if she is a **willing accomplice in the Stop Vecna plan.**  
 - **Ellis keeps a network of informants, using his political knowledge to direct the resistance subtly.**  
 
