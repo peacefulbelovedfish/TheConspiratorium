@@ -98,5 +98,4 @@
 - Astraeus follows **Ioun**, ensuring that knowledge and structure remain unwavering, even in the face of chaos.  
 - Zenthos upholds **Pelor’s** divine light, representing the power of endurance and leadership through stability.  
 
-These additions fit seamlessly into the existing pantheon, enriching the divine struggles and mortal faiths that shape the world.
 
