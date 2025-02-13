@@ -5,8 +5,11 @@
 **Alignment:** Neutral Evil  
 **Affiliation:** Kingpin of the [Gilded Shadows](../towns/belford/guilds/GildedShadows.md)  
 
+### Brief Summary
+The powerful and enigmatic leader of the [Gilded Shadows](../guilds/GildedShadows.md), whose criminal empire operates out of the [Old Tanning Factory](../../../../campaigns/campaign2/descriptions/TheOldTannery_APlaceForgotten.md). Though ruthless, he understands the importance of balance and keeps the city’s underworld from descending into chaos.*
+
 ### **Visual Description:**  
-A towering half-orc with broad shoulders and a presence that fills any room. Garlo has deep-set eyes, calculating and cold, always measuring those around him. His short black hair is peppered with gray, a sign of his long rule over the underworld. He dresses in practical but fine dark clothing, favoring deep reds and gold accents. He wears a heavy signet ring—one that carries the symbol of the **Gilded Shadows**, marking him as its undisputed ruler. His voice is low and steady, each word weighted with meaning.
+A towering half-orc with broad shoulders and a presence that fills any room. Garlo has deep-set eyes, calculating and cold, always measuring those around him. His short black hair is peppered with gray, a sign of his long rule over the underworld. He dresses in practical but fine dark clothing, favoring deep reds and gold accents. He wears a heavy signet ring—one that carries the symbol of the **[Gilded Shadows](../guilds/GildedShadows.md)**, marking him as its undisputed ruler. His voice is low and steady, each word weighted with meaning.
 
 ### **Personality:**  
 Garlo is **ruthless, patient, and strategic**—a predator that never strikes without reason. He believes in **absolute control**, not just over his guild but over **Belford's entire criminal underbelly**. He doesn't tolerate chaos; everything runs according to **his** design. Unlike petty crime bosses, he isn’t reckless—he plays the **long game**, making careful moves, collecting favors, and eliminating threats before they even know they exist. His **calm, controlled demeanor** makes him all the more terrifying—when he raises his voice, people listen.
@@ -28,12 +31,12 @@ Garlo is **ruthless, patient, and strategic**—a predator that never strikes wi
 - **Total control** over Belford’s criminal operations, eliminating rogue elements  
 - To **keep the nobility in check**, ensuring they never meddle in his affairs  
 - To **secure his legacy**—he knows no empire lasts forever, but his name should  
-- To **suppress the influence of the Umbral Pact**, keeping them from growing too bold  
+- To suppress the influence of the [Umbral Pact](../guilds/UmbralPact.md), keeping them from growing too bold  
 
 ### **Fears:**  
 - That **his empire is only as strong as its weakest link**  
 - That one day, an **unknown player** will outmaneuver him  
-- That **Jamie "The Coyote" Watt** may prove to be more of a liability than he thought  
+- That **[Jamie "The Coyote" Watt](../npcs/JamieWatt.md)** may prove to be more of a liability than he thought  
 - That the **Umbral Pact’s rise** could destabilize the delicate power balance  
 
 ### **Secrets & Hooks:**  

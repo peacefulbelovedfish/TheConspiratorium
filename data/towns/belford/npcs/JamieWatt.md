@@ -3,7 +3,13 @@
 **Race:** Human  
 **Class:** Rogue (Scout)  
 **Alignment:** Chaotic Neutral  
-**Affiliation:** [Thieves' Guild](../towns/belford/guilds/GildedShadows.md)  
+**Affiliation:** [Thieves' Guild - Guilded Shadow](../towns/belford/guilds/GildedShadows.md)  
+
+### Voice Direction
+Jamie Tart (Ted Lasso) - not quite cockney, but def. cocky.  
+
+### Brief Summary
+A brash, street-smart rogue with a knack for navigating Belford’s underbelly. While outwardly self-serving, he secretly looks out for the city's less fortunate—even if he’d never admit it.  Known about the streets, easy to talk to, but tough to get to know.  It's generally known he's part of the Gilded Shadow.
 
 ### **Visual Description:**  
 A young human rogue with sharp wit and sharper instincts. Jamie has short black hair, smooth golden skin, and distinct but not overly aggressive pointed features. His deep blue eyes always seem to be sizing up a situation, looking for an advantage. He wears a long dark red coat over studded leather armor and carries a black satchel slung over his shoulder. A few gold bracelets dangle from his left wrist, which he constantly fiddles with—a nervous habit or just a display of wealth, who can say?

@@ -5,6 +5,9 @@
 **Alignment:** Lawful Neutral  
 **Affiliation:** [Belford Town Guard](../guilds/BelfordTownGuard.md)  
 
+### Brief Summary
+A seasoned Goliath officer in the [Belford Town Guard](../guilds/BelfordTownGuard.md), known for his tough but fair leadership. He oversees the Lower Boroughs guard unit and works to keep corruption at bay while managing the tensions between the city’s criminal elements and law enforcement.
+
 ### **Visual Description:**  
 A **massive 62-year-old Goliath** with **a powerful, battle-worn presence**.  
 His **bald head** is always covered by his guard’s helmet, but his **big brown eyes** carry the weight of experience.  

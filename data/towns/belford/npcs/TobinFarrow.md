@@ -5,6 +5,9 @@
 **Alignment:** Neutral  
 **Affiliation:** *No real loyalty, but got tangled with the [Umbral Pact](../guilds/UmbralPact.md)*  
 
+### Brief Summary
+A naive teenage thief who got in over his head working with the [Umbral Pact](../guilds/UmbralPact.md). [Jamie Watt](../npcs/JamieWatt.md) knows him personally and is furious to learn of his involvement in criminal activity, vowing to set him straight.*
+
 ### **Family**
 **Mother**: Ellen Farrow – A kind but weary woman, always looking out for her son, but unable to shield him from everything.
 **Father** (Deceased): Osric Farrow - His mother doesn’t talk much about his father, only that he was a good man, and the sea took him too soon.
@@ -46,13 +49,13 @@ He **wants to be brave**, but the truth is, he’s **just a scared kid who made 
 
 ### **Fears:**  
 - That **Jamie will tell his mom**—that scares him more than the Umbral Pact.  
-- That **Garlo "Ox" Belmaris** or the Pact will come after him for trying to run.  
+- That **[Garlo "Ox" Belmaris](../npcs/GarloBelmaris.md)** or the Pact will come after him for trying to run.  
 - That he’s **too deep in now** and **there’s no way out**.  
 
 ### **Secrets & Hooks:**  
-- **Jamie Watt [JamieWatt.md](../npcs/JamieWatt.md) knows Tobin and his mother.**  
+- **[Jamie Watt](../npcs/JamieWatt.md)** knows Tobin and his mother.
 - **Jamie will be furious when he finds out Tobin worked with the Umbral Pact** and will threaten to tell his mother.  
-- Tobin **tried to quit the Pact, but they told him there’s no quitting**.  
+- **Tobin** tried to quit the Pact, but they told him there’s no quitting.  
 - He **knows something important**, but he’s too scared to tell anyone.  
 
 ### **Quotes:**  
@@ -62,4 +65,4 @@ He **wants to be brave**, but the truth is, he’s **just a scared kid who made 
 
 ### **Notable Game Moments:**  
 - Was hiding on the ship when Vaerion and Farah arrived.  
-- Was captured by Vaerion and Gavin
+- Was captured by Vaerion and [Gavin](../npcs/GavinWaterford.md)

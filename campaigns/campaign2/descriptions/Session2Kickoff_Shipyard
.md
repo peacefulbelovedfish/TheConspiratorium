@@ -6,7 +6,7 @@ SESSION 2 Kickoff
 
 ### The Shipyard in the Rain – A Moment of Stillness After the Storm
 
-The rain falls in sheets, hissing as it meets cold stone, washing away the blood that seeps into the cracks between uneven cobblestones. The scent of brine and damp wood hangs thick in the air, mixing with something darker—iron and sweat, the remnants of a fight not long past.
+The rain falls in sheets, hissing as it meets cold stone, and the stubborn floorboards of the Sea , washing away the blood that seeps into the cracks between uneven cobblestones. The scent of brine and damp wood hangs thick in the air, mixing with something darker—iron and sweat, the remnants of a fight not long past.
 
 Beyond the dull roar of the rain, the ship remains eerily still—a stark contrast to the streets beyond, where life moves on, indifferent to the bloodshed. The clamor of knives clashing and voices raised in battle barely registers to the city, swallowed by the insistent downpour and the ceaseless bustle of the docks.  The slash of knives and the few shouts of battle seemingly unnoticed by most.  The wooden gangways creak under shifting weight, and there are growing gasps as word begins to spread outward from this epicenter and eyes turn more and more towards \The Four Sea Sons
 

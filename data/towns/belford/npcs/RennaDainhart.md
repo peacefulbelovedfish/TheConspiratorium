@@ -8,6 +8,9 @@
 
 Voice Direction: she has a fairly heavy Russian accent - think Natalya from Golden Eye, soft voice though.  but still very controlled and diplomatic. 
 
+### Brief Summary
+A skilled diplomat and the Envoy to Krakavla, known for her charisma and strategic mind. She carefully navigates political factions in Belford while ensuring that the city remains stable amid growing tensions.*
+
 ### **Visual Description:**  
 A **poised and polished woman** in her **late 30s to early 40s**, always presenting herself with **an air of control and professionalism.**  
 Her **hair is meticulously styled**—neither overly extravagant nor dull, reflecting **her balance of charm and restraint.**  
@@ -31,10 +34,10 @@ She is **polished in public, but pragmatic behind closed doors**—she knows tha
 - That **the growing instability in Farheim will reach her city sooner than expected.**  
 
 ### **Connections & Secrets:**  
-- **Renna is deeply involved in Belford’s politics**, though **it’s unclear if she realizes Ellis Fairweather is using her as an information source.**  
-- **She may or may not be a willing accomplice in the Stop Vecna movement.**  
+- **Renna is deeply involved in Belford’s politics**, though **it’s unclear if she realizes [Ellis Fairweather](../npcs/EllisFairweather.md) is using her as an information source.**  
+- **She may or may not be a willing accomplice in the Stop Karsus movement.**  
 - **She is one of the key voices keeping Belford neutral in external affairs**, but **that neutrality may not last.**  
-- **The Countess keeps Renna in political circles, ensuring certain diplomatic moves favor anti-Vecna forces without making them obvious.**  
+- **[The Countess](../npcs/SylwenFaelar.md) keeps Renna in political circles, ensuring certain diplomatic moves favor anti-Karsus forces without making them obvious.**  
 
 ### **Notable Features:**  
 - **Highly articulate**, with a **controlled yet inviting voice.**  

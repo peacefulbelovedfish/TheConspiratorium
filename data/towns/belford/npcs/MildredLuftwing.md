@@ -1,14 +1,24 @@
 ## Mildred "Milly" Luftwing
 
-**Visual Description:**
-A stout, broad-shouldered dwarven woman with a strong presence.
-Her auburn hair is streaked with gray, always tied back in a tight bun, but her light red beard is neatly braided and well-kept. 
-She wears a well-worn, faded, but functional patchwork apron, always stocked with a small pad of paper and a pencil for quick notes, and her rough hands bear the calluses of a lifetime of hard work. 
-
 **Race:** Dwarf  
 **Class:** Cleric (Non-combat)  
 **Alignment:** Chaotic Good  
 **Affiliation:** Proprietor of [The Third Tusk](../towns/belford/businesses/TheThirdTusk.md)  
+**Renown with Party and Affiliation** 20
+
+### Voice Direction
+Mrs. Potts (Angela Lansbury) - kind caring, FIRM, no bullshit either. 
+
+### Brief Summary
+A Dwarven merchant who owns [The Third Tusk](../businesses/TheThirdTusk.md), a tavern that serves as a neutral ground for various factions. She is well-connected and often acts as an information broker, knowing far more about Belford’s underworld than she lets on.
+* Knows Ash - often times has her run errands in exchange for a meal
+* Unbeknownst to Ash, she has been sending messages embedded within deliveries.  Envelopes in a basket covered with a blanket, using thieves 
+
+
+### **Visual Description:**
+A stout, broad-shouldered dwarven woman with a strong presence.
+Her auburn hair is streaked with gray, always tied back in a tight bun, but her light red beard is neatly braided and well-kept. 
+She wears a well-worn, faded, but functional patchwork apron, always stocked with a small pad of paper and a pencil for quick notes, and her rough hands bear the calluses of a lifetime of hard work. 
 
 ### **Personality:**
 Milly is an energetic, no-nonsense innkeeper with a sharp tongue and an even sharper eye for trouble. 
@@ -35,12 +45,12 @@ Milly secretly appreciates the attention, but she always waves it off with a gru
 - **Silver bead woven into her hair** – A **subtle, deeply personal memento**.  
 
 ### **Wants:**  
-- A comfortable, stable life running The Third Tusk  
+- A comfortable, stable life running [The Third Tusk](../businesses/TheThirdTusk.md)  
 - To keep her bar in good standing and free of major trouble  
 
 ### **Fears:**  
 - Worries that the economy or the port closing could ruin her livelihood  
-- Fears the increasing presence of the Umbral Pact in Belford  
+- Fears the increasing presence of the [Umbral Pact](../guilds/UmbralPact.md) in Belford  
 - Avoids close relationships after losing her second husband—prefers to keep emotional distance  
 
 ### **Secrets & Hooks:**  

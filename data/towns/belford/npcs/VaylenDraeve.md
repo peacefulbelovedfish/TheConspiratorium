@@ -5,6 +5,9 @@
 **Alignment:** Lawful Neutral  
 **Affiliation:** [Gilded Shadows](../guilds/GildedShadows.md) – Primary Enforcer  
 
+### Brief Summary
+A cold, calculating enforcer of the [Gilded Shadows](../guilds/GildedShadows.md), who commands respect among its members. He prefers working in the background, ensuring that [Garlo Belmaris](../npcs/GarloBelmaris.md)’ orders are carried out efficiently and without question.
+
 ### **Visual Description:**  
 A **weathered, battle-hardened elf** with **sharp, calculating gray eyes** that take in everything.  
 His **dark hair is streaked with silver**, always neatly tied back.  
@@ -31,7 +34,7 @@ He **doesn’t aspire to leadership**—he's not second-in-command, and he likes
 - **Master of silent intimidation**—he doesn’t need threats; his presence alone is enough.  
 - **Deadly efficient in a fight**, favoring **precise, quick takedowns** over brute strength.  
 - **Understands the guild game**—loyal to [Garlo "Ox" Belmaris](../npcs/GarloBelmaris.md), but never blind to the risks.  
-- **Tactician & strategist**, ensuring the Gilded Shadows' operations stay under control.  
+- **Tactician & strategist**, ensuring the [Gilded Shadows](../guilds/GildedShadows.md)' operations stay under control.  
 - **Commands respect**—guild members are loyal to him, even if they fear him a little.  
 
 ### **Notable Features:**  
@@ -46,7 +49,7 @@ He **doesn’t aspire to leadership**—he's not second-in-command, and he likes
 
 ### **Fears:**  
 - That **some idiot inside the guild will ruin the balance Garlo has built**.  
-- That **the Umbral Pact is playing a long game no one sees coming**.  
+- That **the [Umbral Pact](../guilds/UmbralPact.md) is playing a long game no one sees coming**.  
 - That **his past ties to other guilds will come back to haunt him**.  
 
 ### **Secrets & Hooks:**  

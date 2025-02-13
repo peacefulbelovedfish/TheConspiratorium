@@ -5,6 +5,9 @@
 **Alignment:** Neutral Good  
 **Affiliation:** [Belford Political Network](../factions/BelfordPolitics.md)  
 
+### Brief Summary
+A politically savvy scholar who serves as [Renna Dainhart](../npcs/RennaDainhart.md)’s assistant and courier. He is deeply invested in Belford’s stability and works behind the scenes to prevent [Karsus](../../../deities/Karsus.md)’s influence from taking root in the city.
+
 ### **Visual Description:**  
 A **short, lean middle-aged scholar** with a **sharp mind and an ever-observant gaze.**  
 He wears **diplomatic attire**—a clean-pressed button-up shirt, **puffy pantaloons, knee-high socks, and flats.**  
@@ -19,18 +22,18 @@ He is careful about **who he trusts** and plays **the long game when it comes to
 
 ### **Wants:**  
 - To **safeguard Belford’s political stability**, especially against **external and internal corruption.**  
-- To **ensure the anti-Vecna efforts remain hidden**, preventing the **list from falling into the wrong hands.**  
+- To **ensure the anti-Karsus efforts remain hidden**, preventing the **list from falling into the wrong hands.**  
 - To maintain **his role as an information hub** without exposing his true allegiances.  
 
 ### **Fears:**  
-- That **Vecna’s influence in Belford reaches even higher than suspected.**  
+- That **Karsus’s influence in Belford reaches even higher than suspected.**  
 - That **the list will be discovered**, revealing the identities of anti-Vecna operatives.  
-- That **his connection to Gavin Waterford** could one day put him in danger.  
+- That **his connection to [Gavin Waterford](../npcs/GavinWaterford.md)** could one day put him in danger.  
 
 ### **Connections & Secrets:**  
-- **The Countess and the anti-Vecna forces suspect Vecna’s reach goes all the way to the top of Belford’s leadership.**  
-- **Ellis, [Gavin Waterford](../npcs/GavinWaterford.md), and [Renna Dainhart](../npcs/RennaDainhart.md) are all involved in efforts to counteract Vecna’s influence.**  
-- **It is unclear if Renna knows Ellis is receiving information**, or if she is a **willing accomplice in the Stop Vecna plan.**  
+- **[The Countess](../npcs/SylwenFaelar.md) and the anti-Karsus forces suspect Karsus’s reach goes all the way to the top of Belford’s leadership.**  
+- **Ellis, [Gavin Waterford](../npcs/GavinWaterford.md), and [Renna Dainhart](../npcs/RennaDainhart.md) are all involved in efforts to counteract Karsus’s influence.**  
+- **It is unclear if Renna knows Ellis is receiving information**, or if she is a **willing accomplice in the Stop Karsus plan.**  
 - **Ellis keeps a network of informants, using his political knowledge to direct the resistance subtly.**  
 
 ### **Notable Features:**  

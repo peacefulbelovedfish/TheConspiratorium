@@ -5,6 +5,9 @@
 **Alignment:** Chaotic Good  
 **Temple Affiliation:** [The Sehanic Grove](../temples/SehanicGrove.md)  
 
+### Voice Direction
+Eowyn from Lord of the Rings
+
 ### **Personality:**
 Sylwen carries herself with an ethereal grace, exuding an aura of quiet omniscience. She does not merely believe in destiny—she has been shown its intricate design through divine visions from [Sehanine](../deities/Sehanine.md). Her words, carefully chosen and layered with meaning, often leave others questioning whether they have glimpsed wisdom or been ensnared in a deeper mystery. Unlike her sisters, she does not fear the unknown; she has already seen the path unfolding and knows her role within it. She is not hesitant, nor does she doubt—she acts with the certainty of one who has already walked the future.  She sees fate not as an ironclad law but as a shifting tapestry—one that mortals can weave if they dare.
 Sylwen, known by many names, is elusive and cryptic. She abandoned the Voss family name long ago, embracing her identity as a dreamwalker and oracle of Sehanine. 
