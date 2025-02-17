@@ -91,9 +91,8 @@
 ## **Unresolved Questions & Future Hooks**  
 ✅ **What will Gavin do with Tobin?**  
 ✅ **What was in the letter? Who was it for?**  
-✅ **Will Vaerien realize Farah stole his bag?**  
-✅ **Will anyone recognize Tobin before he talks?**  
-✅ **Where did Farah go after fleeing?**  
+✅ **Will Vaerien realize Feyra stole his bag?**   
+✅ **Where did Feyra go after fleeing?**  
 
 ---
 

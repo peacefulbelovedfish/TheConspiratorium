@@ -19,32 +19,18 @@ This session will shift the players from **investigation to action**, leading th
 
 
 ### **1️⃣ Finishing Up at the Dock - Gavin’s Departure & Tobin’s Role**
+[Start Script at the Shipyard](../../descriptions/Session2Kickoff_Shipyard
+.md)
 
-
-
-[Description current docks](needs link)
-
-
-
-#### **Tobin’s Clue to Riven:**
-
-
+### **Tobin’s Clue to Riven:**
 
 - Unless **someone explicitly mentions Tobin**, Jamie will be **mostly unaware of his involvement**, though he may have heard vague rumors about a young recruit getting in over his head.
 
 - Gavin presses Tobin - he's pissed. Not only did these thugs beat up his crew - they took the list. He NEEDS to get that list back - there is a sense of urgency, but also something he doesn't want the Town Guards to know about.  
 
-- Tobin is **scared and skittish** but **not entirely dumb.** He fidgets, eyes darting between Gavin and the guards, trying to gauge his best move. He mutters half-truths, deflecting with vague answers like, *"I'm.. i'm just tryna make a buck, I dunno nothin' else,"* while subtly testing how much they already know.
+- Tobin is **scared and skittish** but **not entirely dumb.** He fidgets, eyes darting between Gavin and the guards, trying to gauge his best move. He mutters half-truths, deflecting with vague answers like, 
 
-- If pressed, he mentions he calls him **"The Black Ledger."**
-
-  - A reference to **Riven Duskbane’s infamous coded book** of debts, blackmail, and secrets.
-
-  - A high **Insight/Streetwise roll** might recognize the name.
-
-
-
-#### **Sgt. Gerrard or Curtis Conrad Shows Up:**
+### **Curtis Conrad Shows Up:**
 
 - **Curtis Conrad arrives first**, seeing **Tobin in distress**.
 
@@ -52,25 +38,18 @@ This session will shift the players from **investigation to action**, leading th
 
 - Tobin **gets arrested** and will be taken to jail **unless the party intervenes.**
 
-- **Gavin Waterford must leave with Curtis** to give his testimony. He will not be seen again this session.
+- Curtis - Alright Gavin - you know I need to take him in, why don't you follow me to the Lower Burough office, and you can give your statement to Sgt. Gerrard.
+  **Gavin Waterford must leave with Curtis** to give his testimony. He will not be seen again this session.
 
 - Before leaving, Gavin **desperately needs to get a message to Milly.**
 
-  - He whispers to Ash: *"Tell Milly there was a holdup on the dock, and The Countess won't be getting what she needs."*
-
-
-
+  - He whispers to Ash: *"Tell Milly there was a holdup on the dock, and The Countess' delivery will be delayed."*
 ---
 
 
 
 ### **2️⃣ The Third Tusk - Milly’s Role & Hook**
-
-
-
-[Description current docks](needs link)
-
-
+[This third tusk!](../../descriptions/TheThirdTusk_LoveAtFirstSight.md)
 
 #### **Setup & How They Get Here:**
 
@@ -108,34 +87,16 @@ This session will shift the players from **investigation to action**, leading th
 
 - She tells them to head to the **Old Tanning Factory.**
 
-
-
----
-
-
-
 ### **3️⃣ The Tannery - Setup for Combat & Clues**
-
-
-
-[Description of Tannery](needs link)
+[The Tannery](../../descriptions/TheOldTannery_APlaceForgotten.md)
 
 [Description Thieves Hideout](needs link)
-
-
 
 #### **What They Find Before Combat:**
 
 - The **factory is abandoned**, filled with the **stench of chemicals, damp leather, and rot**.
 
-- **Faint flickering light** from within—someone is inside.
-
 - They find **a locked door with a riddle mechanism.**
-
-
-
----
-
 
 
 ### **4️⃣ The Guild Door - Gilded Shadows Hideout**
@@ -149,8 +110,6 @@ This session will shift the players from **investigation to action**, leading th
 #### **Security Level:** High  
 
 #### **Access Method:** Solving the riddle using five rotating dials.  
-
-
 
 > **Riddle:**  
 
@@ -194,7 +153,7 @@ This session will shift the players from **investigation to action**, leading th
 
 - **Combat begins.**
 
-
+[The Encounter](../encounters/GildedShadows_Encounter.md)
 
 #### **Enemies & Combat Dynamics:**
 
@@ -213,12 +172,11 @@ This session will shift the players from **investigation to action**, leading th
 ### **6️⃣ Jamie’s Intervention - The Moment of Recognition**
 
 
-
 #### **Jamie’s Entrance:**
 
 - As the battle **looks unwinnable**, Jamie **intervenes.**
 
-- He sees Ash and **recognizes him (but not by name).**
+- He sees Ash and **recognizes her (but not by name).**
 
 - **Jamie’s opening line:**
 
@@ -234,10 +192,6 @@ This session will shift the players from **investigation to action**, leading th
 
 - He def. knows Milly by name - and cares about helping - he escorts them to somewhere more private - depending on the convo
 
-
-
 [Description of Gilded Shadow's Executive Office](needs link)
-
-
 
 ---

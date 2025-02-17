@@ -24,7 +24,7 @@ As you look around, a glance beyond the main room reveals more than just a pub. 
 For now, The Third Tusk is simply a pub—a place of warm meals, flickering hearthlight, and a moment's reprieve from the bustling streets outside. But for those who return, it may yet become something more.
 
   
-
+[Return to Session 2](../planning/session2/session_2.md)
 ## **Additional Details:**  
 - [Expand on environment, notable features, or sensory details here.]  
 

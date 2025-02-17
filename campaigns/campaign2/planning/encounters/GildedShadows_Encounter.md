@@ -77,3 +77,5 @@ Wolf (Shadowy Hound) → Monster Manual, p. 341
 | Bandit (Heavy Hitter)	| 1/8	| 25 XP | 
 | Shadowy Hound	| 1/4	| 50 XP | 
 ---
+
+[Return to Session 2](../session2/session_2.md)

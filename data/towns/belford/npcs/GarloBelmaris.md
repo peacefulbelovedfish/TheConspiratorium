@@ -5,6 +5,9 @@
 **Alignment:** Neutral Evil  
 **Affiliation:** Kingpin of the [Gilded Shadows](../towns/belford/guilds/GildedShadows.md)  
 
+### Voice Direction
+He is Kingpin - deep, dark, luxurious, steeping.  Intentional, and drawn out.  Loves a good show.
+
 ### Brief Summary
 The powerful and enigmatic leader of the [Gilded Shadows](../guilds/GildedShadows.md), whose criminal empire operates out of the [Old Tanning Factory](../../../../campaigns/campaign2/descriptions/TheOldTannery_APlaceForgotten.md). Though ruthless, he understands the importance of balance and keeps the city’s underworld from descending into chaos.*
 
@@ -40,7 +43,7 @@ Garlo is **ruthless, patient, and strategic**—a predator that never strikes wi
 - That the **Umbral Pact’s rise** could destabilize the delicate power balance  
 
 ### **Secrets & Hooks:**  
-- **Garlo has a connection to Jamie Watt**—he sees the young rogue as useful, but **doesn’t fully trust him**  
+- **Garlo has a connection to Jamie Watt**—he sees himself in the young man, as though Jamie could replace his thrown in the Underground Kingdom
 - There is a **hidden vault** somewhere in Belford, rumored to contain Garlo’s true wealth  
 - He has **a personal code**—despite his ruthlessness, there are lines he won’t cross  
 - There’s **one person he fears**, an old rival who has recently resurfaced  
